@@ -3,7 +3,7 @@
 Se desea desarrollar una aplicacion que gestione una lista de productos siempre y cuando haya un usuario registrado en el sistema. 
 Para ello se debe tener en cuenta los siguientes requisitos:
 
-1. La aplicacion debe mostrar la lista de producto a usuarios no registrados mas no debera dejarlos manipular los datos de esta tabla.
+- [ ] 1. La aplicacion debe mostrar la lista de producto a usuarios no registrados mas no debera dejarlos manipular los datos de esta tabla.
 2. La aplicacion debe dejar manipular(registrar y eliminar) los datos de la tabla de productos unicamente a usuarios logueados.
 3. La aplicacion debe permiter registrar usuario.
 4. La aplicaccion debe permitir loguear usuario.
