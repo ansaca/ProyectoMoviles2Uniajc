@@ -11,5 +11,5 @@ Para ello se debe tener en cuenta los siguientes requisitos:
 
 Nota: Se agrega prototipo hecho por el profesor:
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="C0F90E55-6568-4036-BF05-26C1D40C0972_1_105_c.jpeg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://share.icloud.com/photos/09dTHHLpLNAIpuSXs2kP2NzIg">
 </picture>
